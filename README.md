@@ -9,3 +9,4 @@ Pkg.add("Plots")
 Pkg.add("Benchmark")
 4.) Za koristiti neki program trebate prvo vidjeti gdje se nalazi vaš radni folder i u njega ih staviti. Provjera je naredba: pwd()
 5.) Onda možete runnuati fileove sa naredbom: include("crtanje grafova.jl")  (BITNO JE TO .jl INAČE NE RADI, IME SAMO UTIPKATE KAKO IDE I ODMA NAKON .jl)
+Moje isprike, imao sam problema sa GitLab-om
