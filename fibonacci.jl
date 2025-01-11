@@ -5,7 +5,7 @@ function fibonacci(n)
 end
 
 println("Fibonacci broj 1: 0")
-kol=10-1
+kol = 10 - 1
 for i in 1:kol
-    println("Fibonacci broj ", i+1, ": ", fibonacci(i))
+    println("Fibonacci broj ", i + 1, ": ", fibonacci(i))
 end
